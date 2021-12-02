@@ -1,5 +1,5 @@
 # **Verifying Merge Sort in VST**
-### Nils Lauermann ⦁ Advanced Coq Programming 2020 ⦁ [GitHub repository](https://github.com/uds-psl/acp2020-project-lauermann)
+### Nils Lauermann ⦁ Advanced Coq Programming 2020
 
 ***
 
